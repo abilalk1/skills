@@ -18,7 +18,7 @@ Pull requests are open to collaborators only, so describe the fix in an issue in
 
 Agents are welcome to help, but you post the issue, so you own it:
 
-- **One problem per issue.** Several findings from one session are several issues, or none.
+- **One problem per issue.** Several findings from one session are several issues, or none
 - **Short.** If it does not fit on one screen, cut it.
 - **Repro first.** The steps that show the problem come before any analysis.
 - **No pasted specs.** No full proposals, plans, or rewritten `SKILL.md` files. Describe the problem; the fix is ours to design.
